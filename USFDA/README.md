@@ -262,7 +262,7 @@ The most relevant document sections are returned to the user.
 Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/NainikaSai09/Orange_book_scrapper.git
 cd USFDA
 ```
 
@@ -333,18 +333,7 @@ This implementation demonstrates the knowledge mining workflow using:
 
 The project serves as a **proof-of-concept for automated regulatory knowledge extraction**.
 
----
-
-# Future Improvements
-
-* Support multiple drugs and documents
-* Integrate additional regulatory sources (EMA, TGA, Health Canada)
-* Implement LLM-based answer summarization
-* Add structured database storage
-* Improve PDF text cleaning and formatting
-
----
-
 # Author
 
 Nainika Neerukonda
+
